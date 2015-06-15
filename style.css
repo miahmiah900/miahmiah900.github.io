@@ -19,3 +19,4 @@ h3 { font-size: 28pt; }
 div, p { font-size: 16pt; }
 
 pre, pre a { font-size: 12pt; }
+p a { text-decoration: underline; }
