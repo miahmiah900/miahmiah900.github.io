@@ -2,7 +2,7 @@
 
 body { padding: 20pt; background-color: #D3D5DC; color: black; }
 
-p, div, h1, h2, h3, pre { margin-bottom: 1em; border-radius: 7pt; }
+p, div, h1, h2, h3, pre { margin-bottom: 1em; }
 
 a, h1, h2, h3 { color: #767B9E; text-decoration: none; }
 
@@ -10,7 +10,7 @@ pre, pre a { font-family: "Courier New", Courier, monospace; }
 
 pre a { color: black; text-decoration: underline;  }
 
-div { padding: 1em; background-color: white; }
+div { padding: 1em; background-color: white; border-radius: 7pt; }
 
 h1 { font-size: 36pt; background-color: #EEE; }
 h2 { font-size: 36pt; }
